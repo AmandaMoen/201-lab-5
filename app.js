@@ -54,7 +54,7 @@ IMPORTANT DETAIL: You may not use the arithmetic operators + and * in this funct
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSumAndMultiply() function and see if the test passes.*/
 
 // TODO: Write your code here
-function sumAndMultiply(a,b,c){ //eslint-disable-line
+function sumAndMultiply(a, b, c) { //eslint-disable-line
 
 }
 
@@ -74,9 +74,9 @@ IMPORTANT DETAIL: You may not use the arithmetic operator + in this function. To
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testSumArray() function and see if the test passes.*/
 
 // TODO: Write your code here
-var testArray = [2,3,4]; //eslint-disable-line
+var testArray = [2, 3, 4]; //eslint-disable-line
 
-function sumArray(testArray){ //eslint-disable-line
+function sumArray(testArray) { //eslint-disable-line
 
 }
 
@@ -96,7 +96,7 @@ IMPORTANT DETAIL: You may not use the arithmetic operator * in this function. To
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiplyArray() function and see if the test passes.*/
 
 // Write your code here
-function multiplyArray(testArray){ //eslint-disable-line
+function multiplyArray(testArray) { //eslint-disable-line
 
 }
 
